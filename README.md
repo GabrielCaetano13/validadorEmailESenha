@@ -12,7 +12,7 @@ Exercicio desenvolvida durante uma aula do curso Programador FullStack JavaScrip
 <br>
 
 <p align="center">
-  <img alt="preview do site" src="./assets/images/preview.png" width="100%">
+  <img alt="preview do site" src="./assets/images/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
